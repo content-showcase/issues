@@ -1,6 +1,6 @@
 # Content-Showcase
 
-[Content-Showcase](https://contentshowcase.app) is a user-friendly and no-code solution to make announcements popups that convert visitors into customers.
+[Content-Showcase](https://contentshowcase.app) is a friendly and no-code solution to make announcements popups that convert visitors into customers.
 
 This repository is used to track issues and feature requests. 
 
