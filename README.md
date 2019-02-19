@@ -1,6 +1,8 @@
 # Content-Showcase
 
-[Contentshowcase](https://contentshowcase.app) is a user-friendly solution to make announcements popups that convert visitors into customers. No code is required!
+[Contentshowcase](https://contentshowcase.app) is a user-friendly solution to make announcements popups that convert visitors into customers. 
+
+No code is required!
 
 ![https://contentshowcase.app/assets/custom-styles.png](https://contentshowcase.app/assets/custom-styles.png)
 
